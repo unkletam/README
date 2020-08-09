@@ -1,7 +1,7 @@
 ### Hi there, I'm Tanmay 👋
 
 ## I'm a Student and a Data Science Enthusiast !
-- 🔭 I’m currently working on a [Drug Synergy Prediction Problem][https://drugcomb.fimm.fi/]!
+- 🔭 I’m currently working on a [Drug Synergy Prediction Problem](https://drugcomb.fimm.fi/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other data scientists
 - 🥅 2020 Goals: Contribute more to Open Source projects
