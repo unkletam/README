@@ -23,7 +23,7 @@
 [<img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.png" />](https://https://github.com/unkletam)
 [<img align="left" alt="tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />](https://https://github.com/unkletam)
 [<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />](https://https://github.com/unkletam)
-[<img align="left" alt="Azure" width="26px" src="https://w7.pngwing.com/pngs/506/1012/png-transparent-microsoft-azure-cloud-computing-amazon-web-services-logo-cloud-computing-blue-angle-text.png" />](https://https://github.com/unkletam)
+[<img align="left" alt="Azure" width="26px" src="https://www.pngfind.com/pngs/m/597-5975946_microsoft-azure-logo-svg-hd-png-download.png" />](https://https://github.com/unkletam)
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://https://github.com/unkletam)
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://https://github.com/unkletam)
 [<img align="left" alt="MongoDB" width="26px" src="https://www.clipartmax.com/png/middle/114-1147615_mongodb-leaf-open-source-nosql-database-startups-mongodb-logo.png" />](https://https://github.com/unkletam)
