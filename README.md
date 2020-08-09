@@ -1,6 +1,6 @@
 ### Hi there, I'm Tanmay 👋
 
-## I'm a Student, Gamer and a Data Science Enthusiast !
+## I'm a Student and a Data Science Enthusiast !
 - 🔭 I’m currently working on a [Drug Synergy Prediction Problem][https://drugcomb.fimm.fi/]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other data scientists
@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Latest Project" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://flow-classification.herokuapp.com/#/]
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.facebook.com/tanmay2771999]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/tam27/]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/unkletam/]
+[<img align="left" alt="Latest Project" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://flow-classification.herokuapp.com/#/)
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.facebook.com/tanmay2771999)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tam27/)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/unkletam/)
 
 <br />
 
