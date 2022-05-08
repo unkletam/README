@@ -2,9 +2,9 @@
 
 ## I'm a Student and a Data Science Enthusiast !
 - 🔭 I’m currently working on a [Drug Synergy Prediction Problem](https://drugcomb.fimm.fi/)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other data scientists
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Product Management
+- 👯 I’m looking to collaborate with other Data Analysts / Data Scientists.
+- 🥅 2022 Goals: Read 5 books on Product Management.
 - ⚡ Fun fact: I love to play fps games and play ukulele
 
 ### Connect with me:
