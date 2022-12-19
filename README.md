@@ -1,10 +1,10 @@
 ### Hi there, I'm Tanmay 👋
 
 ## I'm a Student and a Data Science Enthusiast !
-- 🔭 I’m currently working on a [Drug Synergy Prediction Problem](https://drugcomb.fimm.fi/)
-- 🌱 I’m currently learning Product Management
+- 🔭 I’m currently searching for a Summer CO-OP!
+- 🌱 I’m currently learning Data Management and Data Visualization Techniques.
 - 👯 I’m looking to collaborate with other Data Analysts / Data Scientists.
-- 🥅 2022 Goals: Read 5 books on Product Management.
+- 🥅 2023 Goals: Read 3 books on Product Management.
 - ⚡ Fun fact: I love to play fps games and play ukulele
 
 ### Connect with me:
