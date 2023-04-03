@@ -1,16 +1,15 @@
 ### Hi there, I'm Tanmay 👋
 
 ## I'm a Student and a Data Science Enthusiast !
-- 🔭 I’m currently searching for a Summer CO-OP!
-- 🌱 I’m currently learning Data Management and Data Visualization Techniques.
-- 👯 I’m looking to collaborate with other Data Analysts / Data Scientists.
-- 🥅 2023 Goals: Read 3 books on Product Management.
+- 🔭 I’m currently searching for a Summer CO-OP as a Data Scientist or Data Analyst position!
+- 🌱 Currently learning Data Mining, Neural Networks and Statistics.
+- 👯 Looking to collaborate with other Data Analysts / Data Scientists.
+- 🥅 2023 Goals: Read 3 books on Statistics and Neural Networks.
 - ⚡ Fun fact: I love to play fps games and play ukulele
 
 ### Connect with me:
 
-[<img align="left" alt="Latest Project" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://flow-classification.herokuapp.com/#/)
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.facebook.com/tanmay2771999)
+[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://tanmay.live)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tam27/)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/unkletam/)
 
