@@ -31,4 +31,4 @@
 <br />
 
 
-<img align="left" alt="unkletam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=unkletam&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="Tanmay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=unkletam&show_icons=true&hide_border=true&theme=tokyonight" />
