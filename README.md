@@ -1,7 +1,7 @@
 ### Hi there, I'm Tanmay 👋
 
 ## I'm a Student and a Data Science Enthusiast !
-- 🔭 I’m currently searching for a Summer CO-OP as a Data Scientist or Data Analyst position!
+- 🔭 I’m currently searching for a full-time role as a Data Scientist or Data Analyst position!
 - 🌱 Currently learning Data Mining, Neural Networks and Statistics.
 - 👯 Looking to collaborate with other Data Analysts / Data Scientists.
 - 🥅 2023 Goals: Read 3 books on Statistics and Neural Networks.
