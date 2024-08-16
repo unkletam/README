@@ -1,11 +1,13 @@
 ### Hi there, I'm Tanmay 👋
 
-## I'm a Student and a Data Science Enthusiast !
-- 🔭 I’m currently searching for a full-time role as a Data Scientist or Data Analyst position!
-- 🌱 Currently learning Data Mining, Neural Networks and Statistics.
-- 👯 Looking to collaborate with other Data Analysts / Data Scientists.
-- 🥅 2023 Goals: Read 3 books on Statistics and Neural Networks.
-- ⚡ Fun fact: I love to play fps games and play ukulele
+## I'm a Student and a Data Enthusiast !
+- 👋🏽 Hi, I'm Tanmay Upadhyay—a driven Analytics Engineer with 2 years of hands-on experience in transforming complex business challenges into data-driven solutions. With a deep expertise in data analysis, ETL development, machine learning, and data visualization, I've developed solutions that drive tangible results.
+
+- 🎓 I'm on track to graduate with an MS in Data Analytics Engineering this December 2024, and I'm actively seeking opportunities in Analytics and Data Engineering roles.
+
+- 💻 My technical toolkit includes Python, R, SQL, Tableau, Scikit-learn, Plotly, AWS, Spark, and Hadoop—skills I've honed through real-world applications and projects.
+
+- When I'm not diving into data, you can find me at the gym or immersed in gaming, always looking to balance focus and fun.
 
 ### Connect with me:
 
