@@ -1,7 +1,7 @@
 ### Hi there, I'm Tanmay 👋
 
 ## I'm a Student and a Data Enthusiast !
-- 👋🏽 Hi, I'm Tanmay Upadhyay—a driven Analytics Engineer with 2 years of hands-on experience in transforming complex business challenges into data-driven solutions. With a deep expertise in data analysis, ETL development, machine learning, and data visualization, I've developed solutions that drive tangible results.
+- 👋🏽 An Analytics Engineer with 2 years of hands-on experience in transforming complex business challenges into data-driven solutions. With a deep expertise in data analysis, ETL development, machine learning, and data visualization, I've developed solutions that drive tangible results.
 
 - 🎓 I'm on track to graduate with an MS in Data Analytics Engineering this December 2024, and I'm actively seeking opportunities in Analytics and Data Engineering roles.
 
