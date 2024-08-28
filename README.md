@@ -3,7 +3,7 @@
 ## I'm a Student and a Data Enthusiast !
 - 👋🏽 An Analytics Engineer with 2 years of hands-on experience in transforming complex business challenges into data-driven solutions. With a deep expertise in data analysis, ETL development, machine learning, and data visualization, I've developed solutions that drive tangible results.
 
-- 🎓 I'm on track to graduate with an MS in Data Analytics Engineering this December 2024, and I'm actively seeking opportunities in Analytics and Data Engineering roles.
+- 🎓 I'm on track to graduate with an MS in Data Analytics Engineering this year, and I'm actively seeking opportunities in Analytics and Data Engineering roles.
 
 - 💻 My technical toolkit includes Python, R, SQL, Tableau, Scikit-learn, Plotly, AWS, Spark, and Hadoop—skills I've honed through real-world applications and projects.
 
